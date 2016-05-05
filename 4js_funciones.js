@@ -15,8 +15,5 @@ if(frase==frase.toUpperCase()){
 	}
 }
 	
-
-
-
 }
               
